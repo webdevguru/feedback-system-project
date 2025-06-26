@@ -229,5 +229,3 @@ This is a demonstration project for a feedback system. The code is structured to
 This project is created for demonstration purposes.
 
 ---
-
-**Note**: This project was built with AI assistance for rapid development while maintaining clean, modular code architecture and best practices. 
