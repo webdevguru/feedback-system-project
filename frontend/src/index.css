@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-gray-800 dark:bg-gray-900 dark:text-gray-200 transition-colors duration-300;
+  }
+  input, textarea {
+    @apply text-gray-900 bg-white;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} 
