@@ -227,5 +227,8 @@ This is a demonstration project for a feedback system. The code is structured to
 ## 📄 License
 
 This project is created for demonstration purposes.
+<<<<<<< HEAD
 
 ---
+=======
+>>>>>>> 881f95b84bde9b322ead63c6e27c2a23f38d3849
